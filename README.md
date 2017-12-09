@@ -10,7 +10,7 @@ Netflix-like application that uses,
 
 # Build Instructions
 ## Database 
-There is a postgres SQL script in the "db" folder to complete reconstruct the database with
+There is a postgres SQL script in the "db" folder to reconstruct the database with
 some dummy data.
 
     psql -U postgres < recreateDatabase.sql
