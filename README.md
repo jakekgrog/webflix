@@ -1,4 +1,4 @@
-Training application that uses,
+Netflix-like application that uses,
 
 - Angular 2
 - Typescript
